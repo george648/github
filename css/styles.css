@@ -143,3 +143,18 @@ body {
     font-size: 12px;
     line-height: 16px;
 }
+
+.container {
+    width: 200px;
+    height: 600px;
+    background-color: black;
+    border-radius: 100px;
+    margin: 0 auto;
+}
+
+.light {
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    margin-bottom: 40px;
+}
